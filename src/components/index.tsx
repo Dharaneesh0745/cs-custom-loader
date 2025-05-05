@@ -1,0 +1,10 @@
+export { default as Loader1 } from './loaders/Spinner_Circle';
+// export { default as Loader2 } from './loaders/Loader2';
+// export { default as Loader3 } from './loaders/Loader3';
+// export { default as Loader4 } from './loaders/Loader4';
+// export { default as Loader5 } from './loaders/Loader5';
+// export { default as Loader6 } from './loaders/Loader6';
+// export { default as Loader7 } from './loaders/Loader7';
+// export { default as Loader8 } from './loaders/Loader8';
+// export { default as Loader9 } from './loaders/Loader9';
+// export { default as Loader10 } from './loaders/Loader10';
